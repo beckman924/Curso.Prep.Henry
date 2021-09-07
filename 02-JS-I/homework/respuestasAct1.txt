@@ -1,0 +1,12 @@
+Variables: Es donde se se puede almacenar un valor que ira cambiando durante el tiempo.
+
+Strings: Son cadenas de texto que se declaran entre comillas.
+
+Funciones: En una funcion se utiliza un conjunto de variables, para calcularlas o realizar una acción, se escribe primero la palabra function luego el nombre de la funcion y luego entre parentesís algun argumento. Luego se abren corchetes donde se declaran las variables y la funcion a realizar.
+Luego se cierran corchetes y al final se puede usar el objeto return para llamar a la funcion y que nos devuelva algun valor. No pueden llamarse a las variables dentro de una funcion usando la funcion console.log();
+
+Argumentos: Sirven para agregar mas variables dentro de una funcion que solo se usaran en esa funcion. Pueden escribirse varias separandolas con una coma.
+
+Declaraciones IF: Se usan para establecer una condicion en una variable, por ejemplo: Si (if) Juan es mayor que Pablo devolver "Juan es Mayor", si no devolver "Juan es menor".
+
+Booleanos: Se utilizan para determinar si una operación es verdadera o falsa.
