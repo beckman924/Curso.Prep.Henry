@@ -1,0 +1,9 @@
+For: Es una funcion que actua como bucle, donde se declara una variable, una expresión condicional y luego se va incrementando la variable inicial. Esto se repetira hasta que se cumpla la expresión condicional o hasta que sea false.
+
+&&, ||, ! : Son operadores logicos que se utilizan para comparar dos expresiones. 
+
+&& (AND): Compara que ambas expresiones sean verdaderas, en ese caso devolvera True, caso contrario False.
+
+|| (OR): Devuelve True si una o las dos expresiones son verdaderas y devolvera False si las dos expresiones son falsas. Cuando detecta que una expresiones es True las demas expresiones quedan sin efecto, o no se ejecutan.
+
+! (Not): Devolvera el valor booleano opuesto a lo que se le pasa. Por ejemplo si una expresion se define como !false, devolvera True.
