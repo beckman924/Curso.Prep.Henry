@@ -1,0 +1,3 @@
+Un array es un contenedor de varios tipos de datos, tanto booleanos como numeros, strings, etc.
+Podemos asignar un array a una variable.
+Cada elemento dentro del array tiene un numero asignado, el primer elemento siempre sera el numero 0.
