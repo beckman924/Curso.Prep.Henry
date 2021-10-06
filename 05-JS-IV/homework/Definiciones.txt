@@ -1,0 +1,9 @@
+Objetos: Se utilizan para almacenar informacion sobre una cosa en especifico. Se definen usando pares de clave:valor.
+
+Propiedades: Las propiedades son la informacion que contendra un objeto. Pueden ser de tipo string, numeros, funciones, booleanos, etc.
+
+Metodos: Es cuando se asigna una funcion a un objeto. Las funcion guardadas en un objeto se denominan metodos. Se crea una clave para un nombre y el valor para una funcion.
+
+Bucle for…in: Se usa para iterar sobre cada par clave-valor en un objeto. Primero se declara una variable, luego la palabra clave IN y el nombre del objeto.
+
+Notación de puntos vs notación de corchetes: Para usar la notacion de puntos usamos el nombre del objeto, un punto y el nombre de la clave.. y en la notacion de corchetes se escribe el nombre del objeto y entre corchetes una cadena o un numero, o una variable que apunte a una cadena o numero. Cada clave hay que envolverla entre comillas.
