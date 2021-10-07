@@ -1,0 +1,2 @@
+prototype: Es una propiedad que tienen todos los objetos de Javascript y representa al prototipo de cada objeto. Se utiliza para acceder a un metodo y utilizarlo en cada una de las clases sin tener que volver a escribir la funcion.
+_Constructors_ (de Clases): Son un objeto que se utiliza como plantilla cuando se van a crear varios objetos con las mismas propiedadas y metodos.
